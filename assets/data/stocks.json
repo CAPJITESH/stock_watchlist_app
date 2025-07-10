@@ -1,0 +1,113 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "ltp": 189.54,
+    "icon_url": "https://pngdownload.io/wp-content/uploads/2023/12/Apple-Logo-Iconic-Tech-Brand-Symbol-PNG-Transparent-Representation-of-Innovation-and-Design-jpg.webp"
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "ltp": 2834.50,
+    "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg75LWB1zIJt1VTZO7O68yKciaDSkk3KMdw&s"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "ltp": 3450.00,
+    "icon_url": "https://www.citypng.com/public/uploads/preview/official-hq-amazon-a-letter-symbol-logo-icon-70175169479214184uavt0v1m.png"
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "ltp": 348.10,
+    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "ltp": 248.42,
+    "icon_url": "https://icon2.cleanpng.com/lnd/20241121/bj/96a913c68a8055c91e7626887336cc.webp"
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc.",
+    "ltp": 326.20,
+    "icon_url": "https://i.pinimg.com/736x/4a/4c/22/4a4c224a0c6667178bebdfa3b6bdb92b.jpg"
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "ltp": 875.28,
+    "icon_url": "https://logos-world.net/wp-content/uploads/2020/11/Nvidia-Emblem.png"
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix Inc.",
+    "ltp": 445.05,
+    "icon_url": "https://images.icon-icons.com/2699/PNG/512/netflix_logo_icon_170919.png"
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings Inc.",
+    "ltp": 62.98,
+    "icon_url": "https://logos-world.net/wp-content/uploads/2020/07/PayPal-Logo.png"
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corporation",
+    "ltp": 43.61,
+    "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3dcOwIEcmuDqKza7LZeHID4io4-NHJQ5Kw&s"
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices Inc.",
+    "ltp": 138.44,
+    "icon_url": "https://logos-world.net/wp-content/uploads/2020/03/AMD-Logo.png"
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber Technologies Inc.",
+    "ltp": 71.02,
+    "icon_url": "https://logos-world.net/wp-content/uploads/2020/05/Uber-Logo.png"
+  },
+  
+  {
+    "symbol": "ZM",
+    "name": "Zoom Video Communications Inc.",
+    "ltp": 69.84,
+    "icon_url": "https://static.vecteezy.com/system/resources/previews/012/871/376/non_2x/zoom-logo-in-blue-colors-meetings-app-logotype-illustration-free-png.png"
+  },
+ 
+  {
+    "symbol": "ABNB",
+    "name": "Airbnb Inc.",
+    "ltp": 134.56,
+    "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fYsTmR0-TXLa06mx13LRXBgbNyBgylU3cw&s"
+  },
+  {
+    "symbol": "DASH",
+    "name": "DoorDash Inc.",
+    "ltp": 103.47,
+    "icon_url": "https://e7.pngegg.com/pngimages/696/964/png-clipart-doordash-round-logo-tech-companies-thumbnail.png"
+  },
+  
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "ltp": 254.67,
+    "icon_url": "https://crystalpng.com/wp-content/uploads/2025/02/visa-logo-03.png"
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard Inc.",
+    "ltp": 398.21,
+    "icon_url": "https://icon2.cleanpng.com/lnd/20241123/ca/85dda930e3465f586e2b20700028d0.webp"
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "ltp": 168.94,
+    "icon_url": "https://icons.veryicon.com/png/o/business/bank-logo-collection/jpmorgan-chase-bank-logo.png"
+  }
+]
